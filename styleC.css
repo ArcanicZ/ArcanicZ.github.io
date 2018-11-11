@@ -15,7 +15,7 @@ html {
 }
 
 .container{
-  max-width: 820px;
+  max-width: 1020px;
 }
 
 *, ::after, ::before{
@@ -75,6 +75,3 @@ h1
   padding-right:20px;
   border-right: 3px solid black;
 }
-
-
-@media (min-width: 768px) and (max-width: 1199.98px) { ... }
